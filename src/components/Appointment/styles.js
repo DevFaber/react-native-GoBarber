@@ -3,8 +3,8 @@ import styled from 'styled-components/native';
 export const Container = styled.View`
   margin-bottom: 15px;
   padding: 20px;
-  border-radius: 10px;
-  background: #fff;
+  border-radius: 15px;
+  background: #c2d2ff;
 
   display: flex;
   flex-direction: row;
@@ -33,11 +33,11 @@ export const Info = styled.View`
 export const Name = styled.Text`
   font-weight: bold;
   font-size: 14px;
-  color: #333;
+  color: #073d46;
 `;
 
 export const Time = styled.Text`
-  color: #999;
+  color: #333;
   font-size: 13px;
   margin-top: 4px;
 `;

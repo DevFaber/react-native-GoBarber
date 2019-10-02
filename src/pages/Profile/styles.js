@@ -15,7 +15,7 @@ export const Separator = styled.View`
 
 export const Title = styled.Text`
   font-size: 20px;
-  color: #fff;
+  color: #1fdeeb;
   font-weight: bold;
   align-self: center;
   margin-top: 40px;
